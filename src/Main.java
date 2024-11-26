@@ -15,6 +15,13 @@ public class Main {
 		Exercicio2 exe2 = new Exercicio2();
 		exe2.execucao();
 		
+		System.out.println("\n");
+		
+		//Exercício 3
+		System.out.println("Exercício 3 - Diferença do produto");
+		Exercicio3 exe3 = new Exercicio3();
+		exe3.execucao();
+		
 		System.exit(0);
 		
 	}
