@@ -34,6 +34,11 @@ public class Main {
 		Exercicio5 exe5 = new Exercicio5();
 		exe5.execucao();
 		
+		//Exercício 6
+		System.out.println("--- Exercício 6 - Áreas ---");
+		Exercicio6 exe6 = new Exercicio6();
+		exe6.execucao();
+		
 		System.exit(0);
 		
 	}
