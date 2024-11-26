@@ -29,6 +29,11 @@ public class Main {
 		Exercicio4 exe4 = new Exercicio4();
 		exe4.execucao();
 		
+		//Exercício 5
+		System.out.println("--- Exercício 5 - Compras ---");
+		Exercicio5 exe5 = new Exercicio5();
+		exe5.execucao();
+		
 		System.exit(0);
 		
 	}
